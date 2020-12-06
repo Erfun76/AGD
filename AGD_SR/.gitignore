@@ -1,0 +1,9 @@
+.jpg
+.jpeg
+.zip
+.rar
+.png
+.bmp
+search/ckpt/*
+search/ESRGAN/*
+search/output/*/*.png
