@@ -1,0 +1,2 @@
+# AGD
+Auto GAN Distiller
